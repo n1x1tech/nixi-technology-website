@@ -45,7 +45,7 @@ const EnterpriseAI = () => {
                 <div className="bg-primary/10 border border-primary/20 rounded-lg p-4 mb-6">
                   <h3 className="font-bold text-primary mb-2">Active Enterprise Projects</h3>
                   <p className="text-sm text-foreground">
-                    Currently developing AI-powered workflow solutions for 2 enterprise clients, transforming their operational efficiency through custom automation and intelligent process design.
+                    Currently developing AI-powered workflow solutions for enterprise clients, transforming their operational efficiency through custom automation and intelligent process design.
                   </p>
                 </div>
                 
