@@ -8,7 +8,7 @@ export default defineConfig(({ mode }) => ({
     host: "::",
     port: 8080,
   },
-  base: "/nixi-technology-website/", 
+  base: '/nixi-technology-website/', 
   plugins: [
     react(),
    
