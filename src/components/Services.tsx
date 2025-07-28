@@ -15,7 +15,7 @@ const Services = () => {
       description: "Comprehensive AI-powered business solutions including workflow design and operational efficiency optimization",
       image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&h=400&fit=crop",
       features: ["AI Workflow Design", "Process Automation", "System Integration", "Predictive Analytics", "Performance Optimization"],
-      caseStudy: "Currently developing AI-powered workflow solutions for 2 enterprise clients, transforming their operational efficiency with custom automation"
+      caseStudy: "Currently developing AI-powered workflow solutions for enterprise clients, transforming their operational efficiency with custom automation"
     }
   ];
 
